@@ -1,3 +1,5 @@
-# Title of the project
+# Learn Git
 
-Edit description of the project
+This repository is for practices only!.
+
+## Thank you!
